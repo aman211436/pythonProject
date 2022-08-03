@@ -40,7 +40,7 @@ print(mylist)
 # RE
 import re
 txt="use of python in machine learning"
-x=re.search("^use.*learning$",txdt)
+# x=re.search("^use.*learning$",txdt)
 if(x):
     print("yes!we have a match")
 else:
